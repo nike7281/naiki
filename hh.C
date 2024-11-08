@@ -12,11 +12,11 @@ int main(void)
     ｛
     　　printf("you have a great body");
     ｝
-    else　
+	else(k=230)　
     ｛
     　　printf("you are healthy");
     ｝
-    else　if
+	else　if(k<=230)
     ｛
       　printf("you are thin");
      ｝
